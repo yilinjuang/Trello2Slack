@@ -1,0 +1,5 @@
+name = "trello2slack"
+type = "javascript"
+account_id = "ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2022-03-30"
